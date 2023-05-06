@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocadowasubo.github.io/sitemap.xml
